@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999883667696",
+    "project_id": "wazoscope-d88f6",
+    "storage_bucket": "wazoscope-d88f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999883667696:android:d9e70d713ae02d1bf92a35",
+        "android_client_info": {
+          "package_name": "com.wazoscope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999883667696-9rgubg61noe25tsb03glvhm599ra15ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wazoscope",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "999883667696-hfrkuve57saldhs1sj60jmqf9cg6o7ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFD-KLToloaNVDEtnMIQBgEXzLmydA54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999883667696-hfrkuve57saldhs1sj60jmqf9cg6o7ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
